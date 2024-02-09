@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=rlyYSG-grRk" target="_blank" rel="noreferrer"><img src="https://photos.google.com/photo/AF1QipN1cC0kVVDwOgJxPh9THWTM1VW_G0vLNRjwFfTU" alt="my banner"></a>
-  [![Hola(https://photos.google.com/photo/AF1QipN1cC0kVVDwOgJxPh9THWTM1VW_G0vLNRjwFfTU)](https://www.yushi.dev/)
-</p>
-
-
 <h3 align="center">
 Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Yu</a> 👋
 </h3>

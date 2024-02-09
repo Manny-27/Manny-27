@@ -6,7 +6,7 @@ Hi there, I'm <a href="https://www.canva.com/design/DAFakp7Bigw/XYSyhImlESyQpno1
 I'm a Frontend Web Developer 💻 and Designer 🎨!
 </h2> 
 
-I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
+I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people.
 
 ### 🤝 Connect with me:
 

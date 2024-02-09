@@ -10,26 +10,20 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://linkedin.com/in/manny-alberto-de-leon-hernandez-524118267" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
-//<a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
-</br>
+<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://linkedin.com/in/manny-alberto-de-leon-hernandez-524118267" alt="Manny-27 | LinkedIn" width="21px"/></a>
+<a href="https://instagram.com/yushi.95"><img align="left" src="https://www.instagram.com/" alt="Manny-27 | Instagram" width="21px"/></a>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ## 🔭 I'm currently working on
 
 - My old projects
-- Restaurant Recommendation App (React-Native)
-- Mobile + Desktop Spotify Clone (Working on it soon...)
-- My next blog
+- Web Spotify Clone (Working on it soon...)
 - My CSS skill
 
 ## 🌱 I'm currently learning
 
-- 📱 React Native
-- Firebase
+- Astro + React + Tailwind
 - React Context API
-- Styled Components  
 
 ## 💼 Technical Skills
 

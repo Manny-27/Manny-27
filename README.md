@@ -10,12 +10,9 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://linkedin.com/in/manny-alberto-de-leon-hernandez-524118267" alt="Manny-27 | LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/yushi.95"><img align="left" src="https://www.instagram.com/" alt="Manny-27 | Instagram" width="21px"/></a>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
-
 <a href="https://linkedin.com/in/manny-alberto-de-leon-hernandez-524118267/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 <a href="https://www.instagram.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ## 🔭 I'm currently working on
 

@@ -24,6 +24,7 @@ I love the entire process of developing creative websites. I love the challenge 
 
 - Astro + React + Tailwind
 - React Context API
+- English Academy with Astro
 
 ## 💼 Technical Skills
 

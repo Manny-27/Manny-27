@@ -16,7 +16,6 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ## 🔭 I'm currently working on
 
-- My old projects
 - My CSS skill
 
 ## 🌱 I'm currently learning
